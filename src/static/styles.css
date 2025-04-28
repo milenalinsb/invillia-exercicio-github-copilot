@@ -72,6 +72,28 @@ section h3 {
 
 .activity-card p {
   margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.activity-card .participants-list {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #eef7ff;
+  border: 1px solid #cce4ff;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #004085;
+}
+
+.activity-card .participants-list span {
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 5px;
+  background-color: #d1ecf1;
+  color: #0c5460;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-size: 13px;
 }
 
 .form-group {
